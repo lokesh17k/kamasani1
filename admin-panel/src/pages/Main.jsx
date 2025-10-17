@@ -237,11 +237,11 @@ function Main() {
           {' '}
           <a
             className='text-color-primary hover:text-color-secondary'
-            href='https://srmukul.com'
+            href='https://mubeenwattoo.github.io/Mubeen_Ahmad/'
             target='_blank'
             rel='noreferrer'
           >
-            Md. Samiur Rahman (Mukul)
+            Mubeen Ahmad
           </a>
         </Footer>
       </Layout>
