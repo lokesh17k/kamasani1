@@ -1,6 +1,5 @@
 /**
-
- *
+npm install -g firebase-tools
  */
 
 import { useEffect, useState } from 'react';
