@@ -7,7 +7,6 @@
     "html": "html",
     "*.css": "tailwindcss"
   },
-
   // ESLINT CONFIGURATION
   "eslint.validate": ["javascript", "javascriptreact"],
 
