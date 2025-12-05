@@ -280,7 +280,7 @@ PUT  /api/v1/edit-room-review/:review_id    - Edit review
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System.git
+git clone https://github.com/Hotel-Room-Booking-System.git
 cd Hotel-Room-Booking-System
 ```
 
